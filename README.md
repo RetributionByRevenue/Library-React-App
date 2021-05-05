@@ -1,7 +1,7 @@
 ***1.	How long did you spend on the coding assignment? 
 a.	What would you add to your solution if you had more time?***
 
-1. A) If i had more time, i would add a redux component to my library search website to add better state & memory tooling.  To be specific, redux would be great for remembering user typed book name and ISBN searches made on the search bar (react component) embedded in my website.  Naturally, i would add a section to my website that would show previous search results fetching from the redux array and displaying them. 
+1. A) If i had more time, i would add a redux component to my library search website to add better state & memory tooling.  To be specific, redux would be great for remembering user typed book name and ISBN searches made on the search bar (react component) embedded in my website.  Naturally, i would add a section to my website that would show previous search results fetching from the redux array and displaying them. In total, i spent about 3 hours on react and api coding, and 3 hours on css styling and including accessibility paradigms.
 
 ***2.What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.***
 
