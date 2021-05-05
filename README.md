@@ -1,4 +1,5 @@
-Hosted On Heroku:  https://shielded-reef-28743.herokuapp.com
+Hosted On Heroku:  https://shielded-reef-28743.herokuapp.com <br>
+👀👀👀I had to wrap my API url around a proxy in order to conform to the strict CORS regulations on Heroku. Although unlikely, when searching for a book, the proxy can be slow so please refresh the Heroku app and try again👀👀👀  
 <br>
 
 ***1.	How long did you spend on the coding assignment? 
