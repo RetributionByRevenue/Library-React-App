@@ -1,11 +1,11 @@
 ***1.	How long did you spend on the coding assignment? 
 a.	What would you add to your solution if you had more time?***
-
+<br>
 1. A) If i had more time, i would add a redux component to my library search website to add better state & memory tooling.  To be specific, redux would be great for remembering user typed book name and ISBN searches made on the search bar (react component) embedded in my website.  Naturally, i would add a section to my website that would show previous search results fetching from the redux array and displaying them. In total, i spent about 3 hours on react and api coding, and 3 hours on css styling and including accessibility paradigms.
 
 ***2.What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.***
-
-2.  The most powerful and latest feature i have used in my library react application was the JavaScript arrow function.   Essentially, the arrow function is a very useful and powerful addition to the JavaScript programming language, as it is used very often in react for communication between props and components.  The arrow function eliminates the "this" keyword and uses the previous context of "this", so it can be used to make fast and efficient compared to its counterpart in the traditional way of programming functions.  
+<br>
+The most powerful and latest feature i have used in my library react application was the JavaScript arrow function.   Essentially, the arrow function is a very useful and powerful addition to the JavaScript programming language, as it is used very often in react for communication between props and components.  The arrow function eliminates the "this" keyword and uses the previous context of "this", so it can be used to make fast and efficient compared to its counterpart in the traditional way of programming functions.  
 ```
 handleChange = (e) => {
 this.setState({searchQuery:  e.target.value})
