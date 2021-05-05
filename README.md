@@ -1,3 +1,4 @@
+![header image](https://github.com/RetributionByRevenue/Library-React-App/blob/main/Preview.PNG)
 Hosted On Heroku:  https://shielded-reef-28743.herokuapp.com <br>
 👀👀👀I had to wrap my API url around a proxy in order to conform to the strict CORS regulations on Heroku. Although unlikely, when searching for a book, the proxy can be slow or sometimes stop working altogether so please refresh the Heroku app and try again!👀👀👀  
 <br>
